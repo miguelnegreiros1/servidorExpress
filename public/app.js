@@ -107,6 +107,15 @@ const BIRDS = [
     occurrence: 'Native to India and Sri Lanka; widely introduced to gardens and parks worldwide.',
     description: 'Celebrated for the male’s extravagant tail train adorned with shimmering eye-spots ("ocelli"), which he fans out during courtship displays.',
     image: 'https://cdn.britannica.com/37/154237-050-A76A506D/blue-peafowl-tail-Indian-peacock-courtship-displays.jpg'
+  },
+  {
+    id: 'harpy-eagle',
+    name: 'Harpy Eagle',
+    scientificName: 'Harpia harpyja',
+    region: 'Central & South America',
+    occurrence: 'Tropical lowland rainforests of South and Central America (Amazon Basin, Brazil, Panama, Colombia, Venezuela).',
+    description: 'One of the largest and most powerful eagles in the world. Known for its crown of erectile feathers, massive talons up to 13 cm, and incredible agility while hunting sloths and monkeys in dense canopy.',
+    image: 'https://birdlifedata.blob.core.windows.net/species-images/22695998.jpg'
   }
 ];
 
