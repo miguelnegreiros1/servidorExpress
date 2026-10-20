@@ -1,4 +1,3 @@
-
 const express = require("express");
 const path = require("path");
 
@@ -26,3 +25,5 @@ app.use(express.static(publicDir));
 app.listen(3000, function () {
     console.log("Servidor iniciado em http://localhost:3000");
 });
+
+
