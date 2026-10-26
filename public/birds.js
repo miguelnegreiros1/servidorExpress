@@ -43,7 +43,7 @@ const BIRDS = [
     region: 'East Asia & Europe',
     occurrence: 'Native to East Asia (Japan, China, Korea); introduced self-sustaining populations in Great Britain and Western Europe.',
     description: 'Famous for the male’s spectacular multi-colored breeding plumage, featuring orange "sail" feathers on the back, a crest, and intricate facial patterns.',
-    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN73b4SqNEU6PZv2qkJTJ--nvoQkDU-NY1ytD9Hof26Z39XJlmsqwYTCI&s=10'
+    image: 'https://upload.wikimedia.org/wikipedia/commons/4/43/Pair_of_mandarin_ducks.jpg?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original'
   },
   {
     id: 'snowy-owl',
