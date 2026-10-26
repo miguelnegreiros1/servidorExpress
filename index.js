@@ -4,6 +4,8 @@ const path = require("path");
 const app = express();
 const publicDir = path.join(__dirname, "public");
 
+const PORT = process.env.PORT || 3000;
+
 app.get("/", function (req, res) {
     res.redirect("/birds");
 });
@@ -22,7 +24,7 @@ app.get("/crustaceans", function (req, res) {
 
 app.use(express.static(publicDir));
 
-app.listen(3000, function () {
+app.listen(PORT, '0.0.0.0', function () {
     console.log("Servidor iniciado!");
 });
 
